@@ -111,7 +111,7 @@
     "variable": [
       {
         "key": "baseUrl",
-        "value": "http://localhost:8001"
+        "value": "http://34.207.105.62:8001"
       }
     ]
   }
