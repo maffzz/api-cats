@@ -3,7 +3,7 @@ import sqlite3 from "sqlite3";
 sqlite3.verbose();
 
 const app = express();
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 8001;
 const DB_FILE = "cats.sqlite";
 
 app.use(express.json());
