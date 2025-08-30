@@ -20,7 +20,7 @@ npm install
 node db.js
 
 # iniciar el servidor
-npm start
+node server.js
 ```
 
 ## 📡 endpoints
